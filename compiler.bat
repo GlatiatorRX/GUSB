@@ -1,0 +1,1 @@
+pyinstaller --specpath=Builds --workpath=Builds --distpath=Builds\Executables -F main.py | pyinstaller --specpath=Builds --workpath=Builds --distpath=Builds\Executables -F server.py
